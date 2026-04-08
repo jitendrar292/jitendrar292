@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hey there, I'm Jitendra Rawat!
 
-<!--
-**jitendrar292/jitendrar292** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Engineer | 🧠 System Design Enthusiast | ✍️ Technical Content Creator
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+* 💻 Building software since 2014
+* 🧩 Focused on software architecture, modular systems, and maintainability
+* ⚙️ Designing scalable backend systems
+* 🤖 Exploring AI-powered developer tooling
+
+---
+
+## 🔗 Connect with Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/jitendrar-singh-rawat
+
+
+---
+
+## 🚀 Current Focus
+
+* 🤝 Developer productivity using AI
+* 🧠 AI-powered application development
+* 🏗️ Architecting software without over-engineering
+
+---
+
+⭐️ I enjoy building useful systems and sharing what I learn along the way.
