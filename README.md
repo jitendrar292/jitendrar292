@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Jitendra Rawat!
 
-🚀 Software Engineer | 🧠 System Design Enthusiast | ✍️ Technical Content Creator
+🚀 Software Engineer | 🧠 System Design Enthusiast 
 
 ---
 
